@@ -10,15 +10,21 @@ A free tutorial world for Minecraft Java Edition 26.3 (single player). Learn the
 
 ## ダウンロード / Download
 
-[Releases](https://github.com/SOTA56/mc-first-steps/releases/latest) から `56CRAFT-Minecraft-First-Steps-Java-26.3.zip` をダウンロードしてください。入れ方は zip の中の `README.txt`（9言語）にあります。
+いちばん簡単なのは、[56 CRAFT](https://sota56.com/56craft) の「ダウンロード」ボタンです。入れ方もそのページの「導入方法」で、Windows / Mac 別に説明しています。
 
-Download the zip from [Releases](https://github.com/SOTA56/mc-first-steps/releases/latest). Installation steps (9 languages) are in `README.txt` inside the zip.
+The easiest way is the Download button on [56 CRAFT](https://sota56.com/56craft). You can also get `56CRAFT-First-Steps-World-<version>.zip` from [Releases](https://github.com/SOTA56/mc-first-steps/releases/latest).
 
-## 入れかた（かんたん版） / Quick install
+## 入れかた / Install
 
-1. zip を開き、中の `mc-tutorial-world.zip` を使います。
-2. PrismLauncher など：インスタンスの「ワールド」画面へドラッグ＆ドロップ。公式ランチャー：展開した `mc-tutorial-world` フォルダを `.minecraft/saves/` へ。
-3. Minecraft 26.3 のシングルプレイで「マイクラ はじめの一歩」を開き、広場の東の「ミッションゲート」をくぐります。
+1. ダウンロードした zip を展開します（Windows：右クリック →「すべて展開」／Mac：ダブルクリック）。zip と同じ名前のフォルダができます。これがワールドです。
+2. マイクラの `saves` フォルダを開きます。Windows：`%appdata%\.minecraft\saves`／Mac：`~/Library/Application Support/minecraft/saves`
+3. 1 のフォルダを、フォルダごと `saves` に入れます（開いてすぐ `level.dat` が見えるフォルダが正しい形です）。
+4. Minecraft Java Edition 26.3 の「シングルプレイ」から遊びます。新しい版は別のワールドとして入るので、前の版の続きも残ります。
+
+1. Unzip the download (Windows: right-click → Extract All / Mac: double-click). You get a folder with the same name — that is the world.
+2. Open your `saves` folder. Windows: `%appdata%\.minecraft\saves` / Mac: `~/Library/Application Support/minecraft/saves`
+3. Move the whole folder into `saves` (`level.dat` should be right inside it).
+4. Play it from Singleplayer in Minecraft Java Edition 26.3.
 
 ## 利用について / Terms of use
 
