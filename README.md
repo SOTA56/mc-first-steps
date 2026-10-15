@@ -12,7 +12,7 @@ A free tutorial world for Minecraft Java Edition 26.3 (single player). Learn the
 
 いちばん簡単なのは、[56 CRAFT](https://sota56.com/56craft) の「ダウンロード」ボタンです。入れ方もそのページの「導入方法」で、Windows / Mac 別に説明しています。
 
-The easiest way is the Download button on [56 CRAFT](https://sota56.com/56craft). You can also get `56CRAFT-First-Steps-World-<version>.zip` from [Releases](https://github.com/SOTA56/mc-first-steps/releases/latest).
+The easiest way is the Download button on [56 CRAFT](https://sota56.com/56craft). You can also get `First-Steps_<version>.zip` from [Releases](https://github.com/SOTA56/mc-first-steps/releases/latest).
 
 ## 入れかた / Install
 
