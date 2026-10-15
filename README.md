@@ -12,19 +12,19 @@ A free tutorial world for Minecraft Java Edition 26.3 (single player). Learn the
 
 いちばん簡単なのは、[56 CRAFT](https://sota56.com/56craft) の「ダウンロード」ボタンです。入れ方もそのページの「導入方法」で、Windows / Mac 別に説明しています。
 
-The easiest way is the Download button on [56 CRAFT](https://sota56.com/56craft). You can also get `First-Steps_<version>.zip` from [Releases](https://github.com/SOTA56/mc-first-steps/releases/latest).
+The easiest way is the Download button on [56 CRAFT](https://sota56.com/56craft). You can also get `56CRAFT_FirstSteps_<version>_package.zip` from [Releases](https://github.com/SOTA56/mc-first-steps/releases/latest).
 
 ## 入れかた / Install
 
-1. ダウンロードした zip を展開します（Windows：右クリック →「すべて展開」／Mac：ダブルクリック）。zip と同じ名前のフォルダができます。これがワールドです。
-2. マイクラの `saves` フォルダを開きます。Windows：`%appdata%\.minecraft\saves`／Mac：`~/Library/Application Support/minecraft/saves`
-3. 1 のフォルダを、フォルダごと `saves` に入れます（開いてすぐ `level.dat` が見えるフォルダが正しい形です）。
-4. Minecraft Java Edition 26.3 の「シングルプレイ」から遊びます。新しい版は別のワールドとして入るので、前の版の続きも残ります。
+はじめに：マイクラ（Java 版）を一度起動して、タイトル画面まで進めておきます。
 
-1. Unzip the download (Windows: right-click → Extract All / Mac: double-click). You get a folder with the same name — that is the world.
-2. Open your `saves` folder. Windows: `%appdata%\.minecraft\saves` / Mac: `~/Library/Application Support/minecraft/saves`
-3. Move the whole folder into `saves` (`level.dat` should be right inside it).
-4. Play it from Singleplayer in Minecraft Java Edition 26.3.
+1. ダウンロードした `56CRAFT_FirstSteps_<版>_package.zip` を展開します（Windows：右クリック →「すべて展開」→「展開」／Mac：ダブルクリック）。
+2. できた `56CRAFT_FirstSteps_<版>_package` フォルダを開きます。中に `56CRAFT_FirstSteps_<版>_world` フォルダと `README.txt` が入っています。
+3. saves フォルダを開きます。Windows：`Windows` キー＋`R` →`%appdata%\.minecraft\saves`→「OK」／Mac：Finder の「移動」→「フォルダへ移動…」→`~/Library/Application Support/minecraft/saves`
+4. `…_world` フォルダを、フォルダごと saves に入れます。saves →`…_world` と開いて、すぐ `level.dat` が見えれば正しい形です。
+5. マイクラの「シングルプレイ」に「マイクラ はじめの一歩」が出ます。
+
+First start Minecraft (Java Edition) once. 1) Unzip `..._package.zip`. 2) Open the `..._package` folder: it contains the `..._world` folder and `README.txt`. 3) Open your saves folder (Windows: `%appdata%\.minecraft\saves` / Mac: `~/Library/Application Support/minecraft/saves`). 4) Move the whole `..._world` folder into saves (`level.dat` should be right inside it). 5) Play it from Singleplayer.
 
 ## 利用について / Terms of use
 

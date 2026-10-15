@@ -1,0 +1,309 @@
+【日本語】
+マイクラ はじめの一歩（Minecraft Java Edition 26.3 用 チュートリアルワールド）
+
+ミッションをこなしながら、マイクラの基本操作と、生き延び方を学べるワールドです。
+ミッションごとに専用の小さな世界と持ち物で始まるので、前の遊び方で詰むことはありません。
+
+◆ 必要なもの
+  ・Minecraft Java Edition 26.3（このバージョン専用です。ほかのバージョンでは動きません）
+  ・シングルプレイ用です
+
+◆ 入れかた
+  はじめに：マイクラ（Java 版）を一度起動して、タイトル画面まで進めておきます。
+  1. ダウンロードした「56CRAFT_FirstSteps_26.3-beta.2_package.zip」を展開します。
+     Windows：zip を右クリック →「すべて展開」→「展開」／Mac：zip をダブルクリック
+  2. できた「56CRAFT_FirstSteps_26.3-beta.2_package」フォルダを開きます。中に「56CRAFT_FirstSteps_26.3-beta.2_world」フォルダと、この説明書が入っています。
+  3. saves フォルダを開きます。
+     Windows：Windows キーを押しながら R を押し、「%appdata%\.minecraft\saves」を貼り付けて「OK」
+     Mac：Finder のメニュー「移動」→「フォルダへ移動…」に「~/Library/Application Support/minecraft/saves」を貼り付けて Return
+  4. 「56CRAFT_FirstSteps_26.3-beta.2_world」フォルダを、フォルダごと saves に入れます。
+     saves →「56CRAFT_FirstSteps_26.3-beta.2_world」と開いて、すぐ level.dat が見えれば正しい形です。
+  5. マイクラの「シングルプレイ」を開くと、「マイクラ はじめの一歩」が出てきます。
+  6. 広場の東にある「ミッションゲート」をくぐると、ミッションを選べます。
+     困ったときは Esc キー →「ミッションメニュー」（ヒント・やり直し・リタイア）。
+
+◆ 言語
+  Minecraft の言語設定（設定 → 言語設定）に合わせて、表示が自動で変わります。
+  対応: 日本語 / English / Español / Français / Deutsch / 简体中文 / 繁體中文 / 한국어 / Bahasa Indonesia
+  それ以外の言語では、その地域で使いやすい言語（スペイン語圏はスペイン語、多くは英語）で表示されます。
+
+◆ 利用条件
+  個人でのプレイ、配信・動画の公開はOKです。再配布（zip やワールドの転載・配布）は禁止です。
+
+
+================================================================
+【English】
+Minecraft First Steps (a tutorial world for Minecraft Java Edition 26.3)
+
+Learn the basics of Minecraft and how to survive, one mission at a time.
+Every mission starts in its own small world with its own items, so you can never get stuck because of how you played the previous one.
+
+* What you need
+  - Minecraft Java Edition 26.3 (this version only; it will not work on other versions)
+  - Single player
+
+* How to install
+  First: start Minecraft (Java Edition) once and go to the title screen.
+  1. Unzip "56CRAFT_FirstSteps_26.3-beta.2_package.zip".
+     Windows: right-click the zip -> "Extract All" -> "Extract" / Mac: double-click the zip
+  2. Open the "56CRAFT_FirstSteps_26.3-beta.2_package" folder you get. Inside are the "56CRAFT_FirstSteps_26.3-beta.2_world" folder and this README.
+  3. Open your saves folder.
+     Windows: hold the Windows key and press R, paste "%appdata%\.minecraft\saves" and click "OK"
+     Mac: in Finder, choose "Go" -> "Go to Folder..." from the menu, paste "~/Library/Application Support/minecraft/saves" and press Return
+  4. Move the whole "56CRAFT_FirstSteps_26.3-beta.2_world" folder into saves.
+     If you open saves -> "56CRAFT_FirstSteps_26.3-beta.2_world" and see level.dat right away, it is in the right place.
+  5. Open "Singleplayer" in Minecraft and you will see "マイクラ はじめの一歩".
+  6. Walk through the "Mission Gate" east of the plaza to pick a mission.
+     If you get stuck, press Esc -> "Mission Menu" (hints, start over, give up).
+
+* Languages
+  The text follows your Minecraft language setting (Options -> Language).
+  Supported: Japanese / English / Spanish / French / German / Simplified Chinese / Traditional Chinese / Korean / Indonesian
+  Any other language is shown in the supported language that is easiest to use in that region (Spanish for Spanish-speaking regions, English for most others).
+
+* Terms
+  Personal play, streaming and videos are OK. Redistribution (re-uploading or sharing the zip or the world) is not allowed.
+
+
+================================================================
+【Español】
+Minecraft: Primeros pasos (mundo tutorial para Minecraft Java Edition 26.3)
+
+Aprende lo básico de Minecraft y a sobrevivir, misión a misión.
+Cada misión empieza en su propio mundo pequeño con sus propios objetos, así que nunca te quedas atascado por cómo jugaste la anterior.
+
+* Qué necesitas
+  - Minecraft Java Edition 26.3 (solo esta versión; no funciona en otras)
+  - Un jugador
+
+* Cómo instalarlo
+  Antes: abre Minecraft (Java Edition) una vez y llega a la pantalla de título.
+  1. Descomprime «56CRAFT_FirstSteps_26.3-beta.2_package.zip».
+     Windows: clic derecho en el zip -> «Extraer todo» -> «Extraer» / Mac: doble clic en el zip
+  2. Abre la carpeta «56CRAFT_FirstSteps_26.3-beta.2_package» que aparece. Dentro están la carpeta «56CRAFT_FirstSteps_26.3-beta.2_world» y este archivo.
+  3. Abre la carpeta saves.
+     Windows: mantén la tecla Windows y pulsa R, pega «%appdata%\.minecraft\saves» y pulsa «Aceptar»
+     Mac: en el Finder, menú «Ir» -> «Ir a la carpeta...», pega «~/Library/Application Support/minecraft/saves» y pulsa Retorno
+  4. Mueve la carpeta «56CRAFT_FirstSteps_26.3-beta.2_world» entera dentro de saves.
+     Si al abrir saves -> «56CRAFT_FirstSteps_26.3-beta.2_world» ves level.dat directamente, está bien colocada.
+  5. Abre «Un jugador» en Minecraft y aparecerá «マイクラ はじめの一歩».
+  6. Cruza la «Puerta de misiones» al este de la plaza para elegir una misión.
+     Si te atascas, pulsa Esc -> «Menú de misiones» (pistas, reintentar, rendirte).
+
+* Idiomas
+  El texto sigue el idioma de tu Minecraft (Opciones -> Idioma).
+  Disponibles: japonés / inglés / español / francés / alemán / chino simplificado / chino tradicional / coreano / indonesio
+  En cualquier otro idioma se muestra el idioma disponible más útil en esa región (español en las regiones hispanohablantes, inglés en la mayoría de los demás casos).
+
+* Condiciones
+  Se permite jugar de forma personal y publicar directos y vídeos. No se permite la redistribución (volver a subir o compartir el zip o el mundo).
+
+
+================================================================
+【Français】
+Minecraft : Premiers pas (monde tutoriel pour Minecraft Java Edition 26.3)
+
+Apprenez les bases de Minecraft et à survivre, mission après mission.
+Chaque mission commence dans son propre petit monde, avec ses propres objets : impossible d'être bloqué à cause de la façon dont vous avez joué la précédente.
+
+* Ce qu'il vous faut
+  - Minecraft Java Edition 26.3 (cette version uniquement ; ne fonctionne pas sur les autres)
+  - Solo
+
+* Installation
+  Avant tout : lancez Minecraft (Java Edition) une fois, jusqu'à l'écran titre.
+  1. Décompressez « 56CRAFT_FirstSteps_26.3-beta.2_package.zip ».
+     Windows : clic droit sur le zip -> « Extraire tout » -> « Extraire » / Mac : double-cliquez sur le zip
+  2. Ouvrez le dossier « 56CRAFT_FirstSteps_26.3-beta.2_package » obtenu. Il contient le dossier « 56CRAFT_FirstSteps_26.3-beta.2_world » et ce fichier.
+  3. Ouvrez le dossier saves.
+     Windows : maintenez la touche Windows et appuyez sur R, collez « %appdata%\.minecraft\saves » puis « OK »
+     Mac : dans le Finder, menu « Aller » -> « Aller au dossier... », collez « ~/Library/Application Support/minecraft/saves » puis Retour
+  4. Déplacez le dossier « 56CRAFT_FirstSteps_26.3-beta.2_world » en entier dans saves.
+     Si en ouvrant saves -> « 56CRAFT_FirstSteps_26.3-beta.2_world » vous voyez directement level.dat, c'est bon.
+  5. Ouvrez « Solo » dans Minecraft : « マイクラ はじめの一歩 » apparaît.
+  6. Franchissez le « Portail des missions » à l'est de la place pour choisir une mission.
+     En cas de blocage, appuyez sur Échap -> « Menu des missions » (indices, recommencer, abandonner).
+
+* Langues
+  Le texte suit la langue de votre Minecraft (Options -> Langue).
+  Disponibles : japonais / anglais / espagnol / français / allemand / chinois simplifié / chinois traditionnel / coréen / indonésien
+  Toute autre langue s'affiche dans la langue disponible la plus utile dans cette région (français pour les régions francophones, anglais dans la plupart des autres cas).
+
+* Conditions d'utilisation
+  Le jeu à titre personnel, le streaming et les vidéos sont autorisés. La redistribution (remise en ligne ou partage du zip ou du monde) est interdite.
+
+
+================================================================
+【Deutsch】
+Minecraft: Erste Schritte (Tutorial-Welt für Minecraft Java Edition 26.3)
+
+Lerne die Grundlagen von Minecraft und das Überleben, Mission für Mission.
+Jede Mission beginnt in einer eigenen kleinen Welt mit eigenen Gegenständen. So kannst du nie wegen der vorherigen Mission festhängen.
+
+* Das brauchst du
+  - Minecraft Java Edition 26.3 (nur diese Version; mit anderen Versionen funktioniert es nicht)
+  - Einzelspieler
+
+* Installation
+  Vorab: Starte Minecraft (Java Edition) einmal bis zum Titelbildschirm.
+  1. Entpacke „56CRAFT_FirstSteps_26.3-beta.2_package.zip“.
+     Windows: Rechtsklick auf die ZIP -> „Alle extrahieren“ -> „Extrahieren“ / Mac: Doppelklick auf die ZIP
+  2. Öffne den entstandenen Ordner „56CRAFT_FirstSteps_26.3-beta.2_package“. Darin sind der Ordner „56CRAFT_FirstSteps_26.3-beta.2_world“ und diese Anleitung.
+  3. Öffne den Ordner saves.
+     Windows: Windows-Taste gedrückt halten und R drücken, „%appdata%\.minecraft\saves“ einfügen und „OK“
+     Mac: im Finder Menü „Gehe zu“ -> „Gehe zum Ordner ...“, „~/Library/Application Support/minecraft/saves“ einfügen und Return
+  4. Verschiebe den ganzen Ordner „56CRAFT_FirstSteps_26.3-beta.2_world“ in saves.
+     Wenn du saves -> „56CRAFT_FirstSteps_26.3-beta.2_world“ öffnest und sofort level.dat siehst, ist alles richtig.
+  5. Öffne „Einzelspieler“ in Minecraft – dort erscheint „マイクラ はじめの一歩“.
+  6. Geh durch das „Missionstor“ östlich des Platzes, um eine Mission zu wählen.
+     Wenn du nicht weiterkommst: Esc -> „Missionsmenü“ (Tipps, Neustart, Aufgeben).
+
+* Sprachen
+  Die Texte folgen der Sprache deines Minecraft (Optionen -> Sprache).
+  Verfügbar: Japanisch / Englisch / Spanisch / Französisch / Deutsch / Vereinfachtes Chinesisch / Traditionelles Chinesisch / Koreanisch / Indonesisch
+  Jede andere Sprache wird in der verfügbaren Sprache angezeigt, die in dieser Region am besten verständlich ist (Deutsch im deutschsprachigen Raum, sonst meist Englisch).
+
+* Nutzungsbedingungen
+  Privates Spielen sowie Streams und Videos sind erlaubt. Weitergabe (erneutes Hochladen oder Teilen der Zip-Datei oder der Welt) ist nicht erlaubt.
+
+
+================================================================
+【简体中文】
+Minecraft 第一步（适用于 Minecraft Java 版 26.3 的教程世界）
+
+一个任务接一个任务，学习《我的世界》的基本操作和生存方法。
+每个任务都从专属的小世界和专属的物品开始，所以不会因为上一个任务的玩法而卡住。
+
+* 需要的东西
+  - Minecraft Java 版 26.3（仅限此版本，其他版本无法运行）
+  - 单人游戏
+
+* 安装方法
+  首先：启动一次 Minecraft（Java 版），进入标题画面。
+  1. 解压「56CRAFT_FirstSteps_26.3-beta.2_package.zip」。
+     Windows：右键点击 zip →「全部解压缩」→「解压缩」／Mac：双击 zip
+  2. 打开得到的「56CRAFT_FirstSteps_26.3-beta.2_package」文件夹，里面有「56CRAFT_FirstSteps_26.3-beta.2_world」文件夹和这份说明。
+  3. 打开 saves 文件夹。
+     Windows：按住 Windows 键再按 R，粘贴「%appdata%\.minecraft\saves」后点「确定」
+     Mac：在 Finder 菜单选择「前往」→「前往文件夹…」，粘贴「~/Library/Application Support/minecraft/saves」后按回车
+  4. 把「56CRAFT_FirstSteps_26.3-beta.2_world」文件夹整个放进 saves。
+     打开 saves →「56CRAFT_FirstSteps_26.3-beta.2_world」后能直接看到 level.dat，就说明放对了。
+  5. 在 Minecraft 中打开「单人游戏」，就会看到「マイクラ はじめの一歩」。
+  6. 穿过广场东边的“任务之门”，就能选择任务。
+     遇到困难时，按 Esc →“任务菜单”（提示、重新开始、放弃）。
+
+* 语言
+  显示语言会跟随 Minecraft 的语言设置（选项 → 语言）自动切换。
+  支持：日语 / 英语 / 西班牙语 / 法语 / 德语 / 简体中文 / 繁体中文 / 韩语 / 印度尼西亚语
+  其他语言会显示为该地区最容易使用的语言（西班牙语地区用西班牙语，多数地区用英语）。
+
+* 使用条款
+  可以个人游玩，也可以直播或发布视频。禁止再分发（重新上传或分享 zip 或世界）。
+
+
+================================================================
+【繁體中文】
+Minecraft 第一步（適用於 Minecraft Java 版 26.3 的教學世界）
+
+一個任務接一個任務，學習《Minecraft》的基本操作和生存方法。
+每個任務都從專屬的小世界和專屬的物品開始，所以不會因為上一個任務的玩法而卡住。
+
+* 需要的東西
+  - Minecraft Java 版 26.3（僅限此版本，其他版本無法運作）
+  - 單人遊戲
+
+* 安裝方法
+  首先：啟動一次 Minecraft（Java 版），進入標題畫面。
+  1. 解壓縮「56CRAFT_FirstSteps_26.3-beta.2_package.zip」。
+     Windows：在 zip 上按右鍵 →「全部解壓縮」→「解壓縮」／Mac：按兩下 zip
+  2. 打開得到的「56CRAFT_FirstSteps_26.3-beta.2_package」資料夾，裡面有「56CRAFT_FirstSteps_26.3-beta.2_world」資料夾和這份說明。
+  3. 打開 saves 資料夾。
+     Windows：按住 Windows 鍵再按 R，貼上「%appdata%\.minecraft\saves」後按「確定」
+     Mac：在 Finder 選單選擇「前往」→「前往檔案夾…」，貼上「~/Library/Application Support/minecraft/saves」後按 Return
+  4. 把「56CRAFT_FirstSteps_26.3-beta.2_world」資料夾整個放進 saves。
+     打開 saves →「56CRAFT_FirstSteps_26.3-beta.2_world」後能直接看到 level.dat，就表示放對了。
+  5. 在 Minecraft 中打開「單人遊戲」，就會看到「マイクラ はじめの一歩」。
+  6. 穿過廣場東邊的「任務之門」，就能選擇任務。
+     遇到困難時，按 Esc →「任務選單」（提示、重新開始、放棄）。
+
+* 語言
+  顯示語言會跟隨 Minecraft 的語言設定（選項 → 語言）自動切換。
+  支援：日文 / 英文 / 西班牙文 / 法文 / 德文 / 簡體中文 / 繁體中文 / 韓文 / 印尼文
+  其他語言會顯示為該地區最容易使用的語言（西班牙語地區用西班牙文，多數地區用英文）。
+
+* 使用條款
+  可以個人遊玩，也可以直播或發布影片。禁止再散布（重新上傳或分享 zip 或世界）。
+
+
+================================================================
+【한국어】
+마인크래프트 첫걸음 (Minecraft Java Edition 26.3용 튜토리얼 월드)
+
+미션을 하나씩 해 나가며 마인크래프트의 기본 조작과 살아남는 법을 배울 수 있는 월드입니다.
+미션마다 전용의 작은 월드와 전용 소지품으로 시작하므로, 이전 미션의 플레이 방식 때문에 막힐 일이 없습니다.
+
+* 필요한 것
+  - Minecraft Java Edition 26.3 (이 버전 전용이며, 다른 버전에서는 작동하지 않습니다)
+  - 싱글플레이
+
+* 설치 방법
+  먼저: Minecraft(Java 에디션)를 한 번 실행해 타이틀 화면까지 진행해 둡니다.
+  1. 「56CRAFT_FirstSteps_26.3-beta.2_package.zip」의 압축을 풉니다.
+     Windows: zip을 오른쪽 클릭 →「모두 압축 풀기」→「압축 풀기」／Mac: zip을 더블 클릭
+  2. 생긴 「56CRAFT_FirstSteps_26.3-beta.2_package」 폴더를 엽니다. 안에 「56CRAFT_FirstSteps_26.3-beta.2_world」 폴더와 이 설명서가 있습니다.
+  3. saves 폴더를 엽니다.
+     Windows: Windows 키를 누른 채 R을 누르고 「%appdata%\.minecraft\saves」을 붙여 넣은 뒤 「확인」
+     Mac: Finder 메뉴 「이동」→「폴더로 이동…」에 「~/Library/Application Support/minecraft/saves」을 붙여 넣고 Return
+  4. 「56CRAFT_FirstSteps_26.3-beta.2_world」 폴더를 폴더째 saves에 넣습니다.
+     saves →「56CRAFT_FirstSteps_26.3-beta.2_world」를 열었을 때 바로 level.dat가 보이면 올바르게 넣은 것입니다.
+  5. Minecraft의 「싱글플레이」를 열면 「マイクラ はじめの一歩」가 나옵니다.
+  6. 광장 동쪽의 「미션 게이트」를 지나가면 미션을 선택할 수 있습니다.
+     막혔을 때는 Esc 키 → 「미션 메뉴」(힌트·다시 하기·포기).
+
+* 언어
+  마인크래프트의 언어 설정(설정 → 언어)에 맞춰 표시가 자동으로 바뀝니다.
+  지원: 일본어 / 영어 / 스페인어 / 프랑스어 / 독일어 / 중국어 간체 / 중국어 번체 / 한국어 / 인도네시아어
+  그 밖의 언어는 그 지역에서 가장 쓰기 쉬운 언어(스페인어권은 스페인어, 대부분은 영어)로 표시됩니다.
+
+* 이용 조건
+  개인 플레이와 방송·영상 공개는 괜찮습니다. 재배포(zip이나 월드를 다시 올리거나 공유하는 것)는 금지입니다.
+
+
+================================================================
+【Bahasa Indonesia】
+Minecraft Langkah Pertama (dunia tutorial untuk Minecraft Java Edition 26.3)
+
+Pelajari dasar-dasar Minecraft dan cara bertahan hidup, satu misi demi satu misi.
+Setiap misi dimulai di dunia kecilnya sendiri dengan barang miliknya sendiri, jadi kamu tidak akan buntu gara-gara cara bermain di misi sebelumnya.
+
+* Yang dibutuhkan
+  - Minecraft Java Edition 26.3 (khusus versi ini; tidak berfungsi di versi lain)
+  - Bermain Sendiri (pemain tunggal)
+
+* Cara memasang
+  Sebelumnya: jalankan Minecraft (Java Edition) sekali sampai layar judul.
+  1. Ekstrak "56CRAFT_FirstSteps_26.3-beta.2_package.zip".
+     Windows: klik kanan zip -> "Ekstrak Semua" -> "Ekstrak" / Mac: klik dua kali zip
+  2. Buka folder "56CRAFT_FirstSteps_26.3-beta.2_package" yang muncul. Di dalamnya ada folder "56CRAFT_FirstSteps_26.3-beta.2_world" dan panduan ini.
+  3. Buka folder saves.
+     Windows: tahan tombol Windows lalu tekan R, tempel "%appdata%\.minecraft\saves" lalu klik "OK"
+     Mac: di Finder, pilih menu "Buka" -> "Buka Folder...", tempel "~/Library/Application Support/minecraft/saves" lalu tekan Return
+  4. Pindahkan seluruh folder "56CRAFT_FirstSteps_26.3-beta.2_world" ke dalam saves.
+     Jika saat membuka saves -> "56CRAFT_FirstSteps_26.3-beta.2_world" kamu langsung melihat level.dat, berarti sudah benar.
+  5. Buka "Bermain Sendiri" di Minecraft, lalu "マイクラ はじめの一歩" akan muncul.
+  6. Lewati «Gerbang Misi» di sebelah timur alun-alun untuk memilih misi.
+     Kalau buntu, tekan Esc -> «Menu Misi» (petunjuk, ulang, menyerah).
+
+* Bahasa
+  Teks mengikuti pengaturan bahasa Minecraft-mu (Opsi -> Bahasa).
+  Didukung: Jepang / Inggris / Spanyol / Prancis / Jerman / Mandarin Sederhana / Mandarin Tradisional / Korea / Indonesia
+  Bahasa lain ditampilkan dalam bahasa yang paling mudah dipakai di wilayah itu (Spanyol untuk wilayah berbahasa Spanyol, Inggris untuk kebanyakan lainnya).
+
+* Ketentuan
+  Bermain secara pribadi, siaran langsung, dan video diperbolehkan. Mendistribusikan ulang (mengunggah ulang atau membagikan zip atau dunia) tidak diperbolehkan.
+
+----------------------------------------------------------------
+Version 26.3-beta.2  /  Minecraft Java Edition 26.3
+Made by 奏多56 (SOTA56) — https://sota56.com/56craft
+This is an unofficial fan-made world. It is not an official Minecraft product
+and is not approved by or associated with Mojang Studios or Microsoft.
